@@ -1,8 +1,7 @@
-#Projeto IMC em Java
+# Projeto IMC em Java
 
-**Aluno: Ariel David de Almeida Chaves
-**RA: 1136093
+Aluno: Ariel David de Almeida Chaves  
+RA: 1136093  
 
-Descrição
-
+## Descrição
 Programa em Java que calcula o IMC (Índice de Massa Corporal) e classifica o resultado conforme o gênero informado.
